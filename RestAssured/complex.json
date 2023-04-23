@@ -1,0 +1,36 @@
+{
+  "category" : "Super Hero Movies & TVSeries",
+  "acceptedFranchises" : [ "DC", "Marvel" ],
+  "genres" : [ "Action", "Adventure", "Heroic", "Dark", "Funny" ],
+  "movies" : [ {
+    "title" : "BatMan The Dark Knight",
+    "year" : 2008,
+    "cast" : [ "Christian Bale", "Heath Ledger" ]
+  }, {
+    "title" : "Snyder Cut",
+    "year" : 2021,
+    "cast" : [ "Henry Cavil", "Gal Gadot" ]
+  }, {
+    "title" : "Avengers Age Of Ultran",
+    "year" : 2015,
+    "cast" : [ "Robert Downy Jr", "Chris Evans" ]
+  }, {
+    "title" : "The Avengers",
+    "year" : 2012,
+    "cast" : [ "Chris Evans", "Chris Hemsworth" ]
+  } ],
+  "tvSeries" : [ {
+    "title" : "Flash",
+    "year" : 2014
+  }, {
+    "title" : "Gotham",
+    "year" : 2014
+  }, {
+    "title" : "Super Girl",
+    "year" : 2015
+  } ],
+  "otherDetails" : {
+    "country" : "USA",
+    "language" : "English"
+  }
+}

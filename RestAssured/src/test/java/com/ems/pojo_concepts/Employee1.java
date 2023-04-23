@@ -13,11 +13,11 @@ public class Employee1 {
 		employee1.setFirstName("Boomer");
 		employee1.setLastName("Uncle");
 		employee1.setEmail("boomer@gmail.com");
-		employee1.setSkils(Arrays.asList("Java", "Selenium"));
+		employee1.setskills(Arrays.asList("Java", "Selenium"));
 		System.out.println(employee1.getFirstName());
 		System.out.println(employee1.getLastName());
 		System.out.println(employee1.getEmail());
-		System.out.println(employee1.getSkils());
+		System.out.println(employee1.getskills());
 
 		ObjectMapper mapper = new ObjectMapper();
 		String employeeJson = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(employee1);
